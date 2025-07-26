@@ -33,7 +33,7 @@ This project is a simplified version of the KodeKloud mobile app built for a tak
 | `kodekloud://courses` | Course List |
 | `kodekloud://course/:courseId` | Course Detail |
 | `kodekloud://course/:courseId/lesson/:lessonId` | Lesson Detail |
-# ex: kodekloud://course/crash-course-kubernetes-for-absolute-beginners/lesson/81ed63bb-1556-4723-857b-99b4fcda7c20
+- **ex: kodekloud://course/crash-course-kubernetes-for-absolute-beginners/lesson/81ed63bb-1556-4723-857b-99b4fcda7c20**
 ---
 
 ## 🛠 Setup Instructions
