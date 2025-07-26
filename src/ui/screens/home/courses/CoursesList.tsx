@@ -161,8 +161,9 @@ const CoursesList = () => {
         end={{ x: 1, y: 0 }}
         start={{ x: 1, y: 0 }}
         colors={[Color.BLUE_4, Color.WHITE]}
+        style={{ backgroundColor: Color.BLUE_4 }}
       >
-        <View>
+        <View style={{ paddingTop: vw(24), backgroundColor: Color.BLUE_4 }}>
           <Text style={styles.recentViewCourse}>Recent View Course</Text>
           <CourseCard
             id={item.slug}
