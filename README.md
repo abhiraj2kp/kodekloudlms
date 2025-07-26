@@ -1,4 +1,4 @@
-# 📱 KodeKloud Lite – React Native Assessment
+# 📱 KodeKloud LMS – React Native Assessment
 
 This project is a simplified version of the KodeKloud mobile app built for a take-home assessment. It showcases core LMS features, clean architecture, and mobile-first optimizations.
 
@@ -19,8 +19,8 @@ This project is a simplified version of the KodeKloud mobile app built for a tak
 
 - **React Native** 0.80.1 (TypeScript)
 - **Redux Toolkit** for State Management
-- **Realm DB** for Offline Support
-- **React Navigation v6** with Deep Linking
+- **MMKV DB** for Offline Support
+- **React Navigation v7** with Deep Linking
 - **Axios** for Networking
 - **GitHub Actions** for CI
 
